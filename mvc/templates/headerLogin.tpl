@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
-         <link rel="icon" href="../images/admin.jpeg">
+         <link rel="icon" href="images/admin.jpeg">
         <title>Venta de Hardware</title>
 
         <!-- Bootstrap core CSS -->
@@ -14,5 +14,5 @@
             <meta name="theme-color" content="#563d7c">
 
         <!-- Custom styles for this template -->
-        <link href="../styles/registrarse.css" rel="stylesheet">
+        <link href="styles/registrarse.css" rel="stylesheet">
     </head>

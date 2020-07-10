@@ -13,7 +13,7 @@
 
     {foreach from=$products item=product}
     <div class="venta">
-        <img src="../images/imagen-fija.png" alt="Imagen no encontrada">
+        <img src="images/imagen-fija.png" alt="Imagen no encontrada">
         <p>
             {$product['title']}
         </p>
