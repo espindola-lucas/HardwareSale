@@ -34,7 +34,7 @@
     {foreach from=$products item=product}
     <div class="producto">
         <h3>{$product['title']}</h3>
-        <img src="../images/imagen-fija.png" alt="Imagen no encontrada">
+        <img src="images/imagen-fija.png" alt="Imagen no encontrada">
     </div>
     {/foreach}
 {include file="footerProduct.tpl"}
